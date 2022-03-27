@@ -1,0 +1,35 @@
+{
+  "name": "proreact",
+  "version": "1.0.0",
+  "description": "An App",
+  "author": "gunshykennedy",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --progress"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.*",
+    "babel-loader": "^8.2.4",
+    "webpack": "^2.7.0",
+    "webpack-dev-server": "^1.10.*"
+  },
+  "dependencies": {
+    "react": "^0.13.*"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
